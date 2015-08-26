@@ -214,7 +214,7 @@
 </crewBlueprint>
 
 <crewBlueprint name="mantis">
-	<desc>The Mantis disregard for individual lives led to their evolution as a vicious warrior race.</desc>
+	<desc>The Mantis' disregard for individual lives led to their evolution as a vicious warrior race.</desc>
 	<title>Mantis</title>
 	<short>Mantis</short>
 	<cost>55</cost> <!--was 45-->
@@ -316,8 +316,8 @@
 	<bp>2</bp>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Telepathic powers reveal rooms and lifeforms even when sensors are down.</power>
-		<power>Immune to mind control.</power>
+		<power>Telepathic powers reveal rooms and lifeforms even when sensors are down</power>
+		<power>Immune to mind control</power>
 	</powerList>
 	<colorList>
 		<layer><!-- Layer 1 - color -->
@@ -1628,8 +1628,8 @@
 	<tip>tip_crystal</tip>
 	<title>Shardstorm Crystal Burst</title>
 	<short>Shardstorm</short>
-	<desc>Powerful projectile artillery that riddles enemy ships with antipersonnel crystals.  40 seconds base cooldown.</desc>
-	<tooltip>Automatically fires 12 shots that damage crew; low breach chance; pierces 4 shield. 40 seconds base cooldown. [WARNING: Loading the game won't work with this installed. You'll have to finish this run in one go.]</tooltip>
+	<desc>Powerful projectile artillery that riddles enemy ships with anti-personnel crystals.  40 seconds base cooldown.</desc>
+	<tooltip>Automatically fires 12 shots that damage crew; low breach chance; pierces 4 shields. 40 seconds base cooldown. [WARNING: Loading the game won't work with this installed. You'll have to finish this run in one go.]</tooltip>
 	<drone_targetable>2</drone_targetable>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
@@ -1960,7 +1960,7 @@
 
 <augBlueprint name="CRYSTAL_SHARDS"> 
 	<title>Crystal Vengeance</title>
-	<desc>Every time your ship takes damage, there is a 30 percent chance to break of a shard that flies at your enemy, dealing damage and piercing all shields.</desc>
+	<desc>Every time your ship takes damage, there is a 30 percent chance to break off a shard that flies at your enemy, dealing damage and piercing all shields.</desc>
 	<cost>30</cost>
 	<bp>8</bp>
 	<rarity>0</rarity>
@@ -2349,7 +2349,7 @@
 
 <augBlueprint name="AE_WEAPON_JAMMER">   <!-- 20% fail, 2 power -->
 	<title>Targeting Jammer</title>
-	<desc>Attempts to scramble the enemy weapon targeting, disabling one to two weapons. 2 power combat augment.</desc>
+	<desc>Attempts to scramble the enemy weapon targeting systems, disabling one to two weapons. 2 power combat augment.</desc>
 	<cost>100</cost>
 	<bp>5</bp>
 	<rarity>5</rarity>
@@ -2633,7 +2633,7 @@
 	<title>Auto Focus Beam</title>
 	<short>Auto Beam</short>
 	<desc>Fast charging support beam designed to continually keep enemy ships under fire.</desc>
-	<tooltip>One damage per room beam weapon</tooltip>
+	<tooltip>One damage per room beam weapon.</tooltip>
 	<damage>1</damage>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
@@ -2783,7 +2783,7 @@
 	<title>Naginata Beam</title>
 	<short>Naginata</short>
 	<desc>Advanced beam weapon that can cut ships right in half.</desc>
-	<tooltip>Powerful beam weapon with extended line. 2 damage per room.</tooltip>
+	<tooltip>Powerful beam weapon with extended targetting range. 2 damage per room.</tooltip>
 	<damage>2</damage>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
@@ -2834,7 +2834,7 @@
 	<tip>ce_tip_beams_focus</tip>
 	<title>Maul Beam</title>
 	<short>Maul</short>
-	<desc>Highly focused beam weapons that can shoot right through enemy ships.</desc>
+	<desc>Highly focused beam weapon that can shoot right through enemy ships.</desc>
 	<tooltip>Powerful focused beam weapon, deals 5 damage to one room with medium breach chance.</tooltip>
 	<damage>5</damage>
 	<sp>0</sp>
@@ -2917,7 +2917,7 @@
 	<title>Anti-Bio Beam Mark I</title> 
 	<short>Bio Beam I</short>
 	<desc>This fast charging anti-bio weapon does no physical damage but rips through organic material, dealing damage to crew members.</desc>
-	<tooltip>2 power beam weapon that damages enemy crew.</tooltip>
+	<tooltip>Beam weapon that damages enemy crew.</tooltip>
 	<damage>0</damage>
 	<persDamage>3</persDamage>
 	<sp>0</sp>
@@ -2948,7 +2948,7 @@
 	<title>Bio Focus Beam</title>
 	<short>Bio Focus</short>
 	<desc>This horrifying focus beam does no physical damage but incinerates organic material, dealing heavy damage to a single crew member.</desc>
-	<tooltip>4 power beam weapon that can greatly damage an enemy crew member. Pierces all shield.</tooltip>
+	<tooltip>Focused beam weapon that can greatly damage an enemy crew member. Pierces all shield.</tooltip>
 	<damage>0</damage>
 	<sysDamage>0</sysDamage>
 	<persDamage>4</persDamage>
@@ -3249,7 +3249,7 @@
 	<tip>ce_tip_mines</tip>
 	<title>Hadur Minelauncher</title>
 	<short>Hadur</short>
-	<desc>Drops a huge mine that slowly homes in on the enemy ship and detonate in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a huge mine that slowly homes in on the enemy ship and detonates in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 1 mine; deals 4 damage to hull; pierces all shields.</tooltip>
 	<damage>4</damage>
 	<sysDamage>-4</sysDamage>
@@ -3289,7 +3289,7 @@
 	<tip>ce_tip_mines</tip>
 	<title>Hadur Minelauncher</title>
 	<short>Hadur</short>
-	<desc>Drops a huge mine that slowly homes in on the enemy ship and detonate in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a huge mine that slowly homes in on the enemy ship and detonates in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 1 mine; deals 4 damage to hull; pierces all shields.</tooltip>
 	<damage>4</damage>
 	<sysDamage>-4</sysDamage>
@@ -3329,7 +3329,7 @@
 	<tip>ce_tip_mines</tip>
 	<title>Frigg Minelauncher</title>
 	<short>Frigg</short>
-	<desc>Drops a mine that slowly homes in on the enemy ship and detonate in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a mine that slowly homes in on the enemy ship and detonates in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 1 mine; deals 3 damage to hull; pierces all shields.</tooltip>
 	<damage>3</damage>
 	<sysDamage>-3</sysDamage>
@@ -3369,7 +3369,7 @@
 	<tip>ce_tip_mines</tip>
 	<title>Frigg Minelauncher</title>
 	<short>Frigg</short>
-	<desc>Drops a mine that slowly homes in on the enemy ship and detonate in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a mine that slowly homes in on the enemy ship and detonates in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 1 mine; deals 3 damage to hull; pierces all shields.</tooltip>
 	<damage>3</damage>
 	<sysDamage>-3</sysDamage>
@@ -3408,7 +3408,7 @@
 	<tip>ce_tip_mines</tip>
 	<title>Oya Minelauncher</title>
 	<short>Oya</short>
-	<desc>Drops a pair of small mines that home in on the enemy ship and detonate in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a pair of small mines that home in on the enemy ship and detonate in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 2 mines; each deals 1 damage to hull; pierces all shields.</tooltip>
 	<damage>1</damage>
 	<sysDamage>-1</sysDamage>
@@ -3448,7 +3448,7 @@
 	<tip>ce_tip_mines</tip>
 	<title>Oya Minelauncher</title>
 	<short>Oya</short>
-	<desc>Drops a pair of small mines that home in on the enemy ship and detonate in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a pair of small mines that home in on the enemy ship and detonate in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 2 mines; each deals 1 damage to hull; pierces all shields.</tooltip>
 	<damage>1</damage>
 	<sysDamage>-1</sysDamage>
@@ -3488,7 +3488,7 @@
 	<tip>ce_tip_mines_tech</tip>
 	<title>Baal Minelauncher</title>
 	<short>Baal</short>
-	<desc>Drops a cloaked tech-mine that homes in on the enemy ship and detonates in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a cloaked tech-mine that homes in on the enemy ship and detonates in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 1 mine; deals 3 damage to hull; pierces all shields; evades lvl 1 defense drones.</tooltip>
 	<damage>3</damage>
 	<sysDamage>-3</sysDamage>
@@ -3530,7 +3530,7 @@
 	<tip>ce_tip_mines_tech</tip>
 	<title>Baal Minelauncher</title>
 	<short>Baal</short>
-	<desc>Drops a cloaked tech-mine that homes in on the enemy ship and detonates in close proximity. Can only deal hull damage.</desc>
+	<desc>Drops a cloaked tech-mine that homes in on the enemy ship and detonates in close proximity. Only damages hull.</desc>
 	<tooltip>Lays 1 mine; deals 3 damage to hull; pierces all shields; evades lvl 1 defense drones.</tooltip>
 	<damage>3</damage>
 	<sysDamage>-3</sysDamage>
@@ -3571,7 +3571,7 @@
 	<title>Chafflauncher</title>
 	<short>Chaff</short>
 	<desc>Support weapon that fires a huge amount of laser chaff in order to confuse all enemy defense drones.</desc>
-	<tooltip>Fires 6 chaff bursts; deals not damage but can distract all enemy defense drones.</tooltip>
+	<tooltip>Fires 6 chaff bursts; deals no damage but can distract all enemy defense drones.</tooltip>
 	<damage>0</damage>
 	<missiles>0</missiles>
 	<shots>6</shots>
@@ -3611,7 +3611,7 @@
 	<title>Old Laser</title>
 	<short>Old Laser</short>
 	<desc>This weapon has seen better days.</desc>
-	<tooltip>One shot, one damage per shot.</tooltip>
+	<tooltip>One shot; deals one damage per shot.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -3688,7 +3688,7 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Laser Mark I</title>
 	<short>Light L.I</short>
-	<desc>Basic antipersonnel laser.</desc>
+	<desc>Basic anti-personnel laser.</desc>
 	<tooltip>Fires 2 shots that damage crew. Ignores 2 shield bubbles, but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
@@ -3730,7 +3730,7 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Laser Mark II</title>
 	<short>Light L.II</short>
-	<desc>High-energy antipersonnel laser.</desc>
+	<desc>High-energy anti-personnel laser.</desc>
 	<tooltip>Fires 3 shots that damage crew. Ignores 2 shield bubbles but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
@@ -3772,7 +3772,7 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Laser Mark III</title>
 	<short>Light L.III</short>
-	<desc>Rapid fire anti personnel laser that decimates enemy crew.</desc>
+	<desc>Rapid fire anti-personnel laser that decimates enemy crew.</desc>
 	<tooltip>Fires 4 shots that damage crew. Ignores 2 shield bubbles but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
@@ -3814,8 +3814,8 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Auto Laser</title>
 	<short>Light Auto</short>
-	<desc>Very fast charging antipersonnel laser that can keep enemy crew constantly under fire.</desc>
-	<tooltip>Fires 1 shots that damage crew. Ignores 2 shield bubbles, but cannot deplete shields. Low chance of breaching.</tooltip>
+	<desc>Very fast charging anti-personnel laser that can keep enemy crew constantly under fire.</desc>
+	<tooltip>Fires 1 shot that damage crew. Ignores 2 shield bubbles, but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
 	<shots>1</shots>
@@ -3856,7 +3856,7 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Scatter Laser Mark I</title>
 	<short>Light Sc. I</short>
-	<desc>Basic antipersonnel scatter laser. Can penetrate weak shields.</desc>
+	<desc>Basic anti-personnel scatter laser. Can penetrate weak shields.</desc>
 	<tooltip>Fires 1 shot with multiple projectiles that damage crew. Ignores 1 shield bubble but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>2</persDamage>
 	<stunChance>1</stunChance>
@@ -3900,7 +3900,7 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Scatter Laser Mark II</title>
 	<short>Light Sc. II</short>
-	<desc>High-energy antipersonnel scatter laser that pierces hull but cannot damage ships structural integrity or deplete shields.</desc>
+	<desc>High-energy anti-personnel scatter laser that pierces hull but cannot damage ships' structural integrity or deplete shields.</desc>
 	<tooltip>Fires 1 shot with multiple projectiles that damage crew. Ignores 1 shield bubble but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>3</persDamage>
 	<stunChance>2</stunChance>
@@ -3944,7 +3944,7 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Scatter Laser Mark III</title>
 	<short>Light Sc. III</short>
-	<desc>Devastating anti personnel laser that shreds crew to bits.</desc>
+	<desc>Devastating anti-personnel laser that shreds crew to bits.</desc>
 	<tooltip>Fires 1 shot with multiple projectiles that greatly damage crew. Ignores 1 shield bubble but cannot deplete shields. Good chance of breaching.</tooltip>
 	<persDamage>4</persDamage>
 	<stunChance>2</stunChance>
@@ -3987,7 +3987,7 @@
 	<type>LASER</type>
 	<title>Light Scatter Laser Mark I</title>
 	<short>Light Sc. I</short>
-	<desc>Basic antipersonnel scatter laser. Can penetrate weak shields.</desc>
+	<desc>Basic anti-personnel scatter laser. Can penetrate weak shields.</desc>
 	<tooltip>Fires 1 shot with multiple projectiles that damage crew. Ignores 1 shield bubble but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>2</persDamage>
 	<stunChance>1</stunChance>
@@ -4029,7 +4029,7 @@
 	<type>LASER</type>
 	<title>Light Scatter Laser Mark II</title>
 	<short>Light Sc. II</short>
-	<desc>High-energy antipersonnel scatter laser that pierces hull but cannot damage ships structural integrity or deplete shields.</desc>
+	<desc>High-energy anti-personnel scatter laser that pierces hull but cannot damage ships' structural integrity or deplete shields.</desc>
 	<tooltip>Fires 1 shot with multiple projectiles that damage crew. Ignores 1 shield bubble but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>3</persDamage>
 	<stunChance>2</stunChance>
@@ -4071,7 +4071,7 @@
 	<type>LASER</type>
 	<title>Light Scatter Laser Mark III</title>
 	<short>Light Sc. III</short>
-	<desc>Devastating anti personnel laser that shreds crew to pieces.</desc>
+	<desc>Devastating anti-personnel laser that shreds crew to pieces.</desc>
 	<tooltip>Fires 1 shot with multiple projectiles that greatly damage crew. Ignores 1 shield bubble but cannot deplete shields. Good chance of breaching.</tooltip>
 	<persDamage>4</persDamage>
 	<stunChance>2</stunChance>
@@ -4116,7 +4116,7 @@
 	<tip>ce_tip_laser_light</tip>
 	<title>Light Artillery Laser</title>
 	<short>Light Arti.</short>
-	<desc>Advanced anti personnel laser that pierces shields and devastates crew.</desc>
+	<desc>Advanced anti-personnel laser that pierces shields and devastates crew.</desc>
 	<tooltip>Fires one shot that does high damage to crew. Ignores 3 shield bubbles, but cannot deplete shields. Good chance of breaching.</tooltip>
 	<persDamage>4</persDamage>
 	<stunChance>2</stunChance>
@@ -4157,7 +4157,7 @@
 	<tip>tip_crystal</tip>
 	<title>Light Crystal Mark I</title>
 	<short>Light C.I</short>
-	<desc>Modified projectile weapon that fires 3 shield piercing antipersonnel crystals. Can not damage ships structural integrity or deplete shields.</desc>
+	<desc>Modified projectile weapon that fires 3 shield piercing anti-personnel crystals. Cannot damage ships' structural integrity or deplete shields.</desc>
 	<tooltip>Fires 3 shots that damage crew. Ignores 3 shield bubbles but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
@@ -4197,7 +4197,7 @@
 	<tip>tip_crystal</tip>
 	<title>Light Crystal Mark II</title>
 	<short>Light C.II</short>
-	<desc>Modified projectile weapon that fires 4 shield piercing antipersonnel crystals. Can not damage ships structural integrity or deplete shields.</desc>
+	<desc>Modified projectile weapon that fires 4 shield-piercing anti-personnel crystals. Cannot damage ships' structural integrity or deplete shields.</desc>
 	<tooltip>Fires 4 shots that damage crew. Ignores 3 shield bubble but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
@@ -4238,7 +4238,7 @@
 	<title>Crystal Lockdown Blast Mark I</title>
 	<short>Lock I</short>
 	<desc>Shoots a shield-piercing crystal that creates a dense wall preventing movement in or out of the room it hits. Vulnerable to Defense drones.</desc>
-	<tooltip>Fires 1 shot, 1 damage. 10 percent fire chance. Pierces 1 shield. Causes lockdown. Vulnerable to Defense I.</tooltip>
+	<tooltip>Fires 1 shot for 1 damage; low chance of fire; pierces 1 shield; causes lockdown. Vulnerable to Defense I.</tooltip>
 	<damage>1</damage>
 	<stunChance>1</stunChance>
 	<shots>1</shots>
@@ -4322,7 +4322,7 @@
 	<title>Auto Laser Mark I</title>
 	<short>Auto I</short>
 	<desc>Fast charging support laser designed to continually lay down fire on enemy ships.</desc>
-	<tooltip>One shot, one damage per shot. Fast reload.</tooltip>
+	<tooltip>One shot; one damage per shot. Fast reload.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -4361,7 +4361,7 @@
 	<title>Auto Laser Mark II</title>
 	<short>Auto II</short>
 	<desc>Very fast charging support laser that can keep enemy ships constantly under fire.</desc>
-	<tooltip>One shot, one damage per shot. Reloads very fast.</tooltip>
+	<tooltip>One shot; one damage per shot. Reloads very fast.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -4399,7 +4399,7 @@
 	<title>Basic Laser Mark II</title>
 	<short>Basic Laser II</short>
 	<desc>Simple military laser.</desc>
-	<tooltip>One shot, one damage per shot.</tooltip>
+	<tooltip>One shot; one damage per shot.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -4476,7 +4476,7 @@
 	<title>Burst Scatter Laser Mark I</title>
 	<short>Burst Scatter I</short>
 	<desc>This simple scatter laser fires spreading projectiles to bring down shields for other weapons.</desc>
-	<tooltip>Fires 2 shot, 1 damage each; cannot damage systems or crew.</tooltip>
+	<tooltip>Fires 2 shots of 1 damage each; cannot damage systems or crew.</tooltip>
 	<damage>1</damage>
 	<sysDamage>-1</sysDamage>
 	<persDamage>-1</persDamage>
@@ -4518,7 +4518,7 @@
 	<title>Burst Scatter Laser Mark II</title>
 	<short>Burst Scatter II</short>
 	<desc>Powerful burst scatter laser that fires a massive volley of laser pellets.</desc>
-	<tooltip>Fires 4 shot, 1 damage each; cannot damage systems or crew.</tooltip>
+	<tooltip>Fires 4 shots, 1 damage each; cannot damage systems or crew.</tooltip>
 	<damage>1</damage>
 	<sysDamage>-1</sysDamage>
 	<persDamage>-1</persDamage>
@@ -4559,8 +4559,8 @@
 	<tip>tip_laser</tip>
 	<title>Heavy Scatter Laser Mark I</title>
 	<short>Heavy Scatter I</short>
-	<desc>Heavy scatter deal a lot of damage to ship hulls, but less damage to systems and crew.</desc>
-	<tooltip>Fires 1 shot, deals 2 damage to hulls but only 1 damage to systems and crew. Low chance of fire.</tooltip>
+	<desc>Heavy scatter laser shots deal a lot of damage to ship hulls, but less damage to systems and crew.</desc>
+	<tooltip>Fires 1 shot that deals 2 damage to hulls but only 1 damage to systems and crew. Low chance of fire.</tooltip>
 	<damage>2</damage>
 	<stunChance>2</stunChance>
 	<sysDamage>-1</sysDamage>
@@ -4603,7 +4603,7 @@
 	<title>Heavy Scatter Laser Mark II</title>
 	<short>Heavy Scatter II</short>
 	<desc>Slightly improved version of the heavy scatter laser that fires a larger volley and therefore deals more damage.</desc>
-	<tooltip>Fires 1 shot, deals 3 damage to hulls but only 2 damage to systems and crew. Low chance of fire.</tooltip>
+	<tooltip>Fires 1 shot that deals 3 damage to hulls but only 2 damage to systems and crew. Low chance of fire.</tooltip>
 	<damage>3</damage>
 	<stunChance>2</stunChance>
 	<sysDamage>-1</sysDamage>
@@ -4646,7 +4646,7 @@
 	<title>Artillery Laser Mark I</title>
 	<short>Arti. I</short>
 	<desc>Artillery lasers cause even more destruction than heavy lasers and also pierce through one shield bubble.</desc>
-	<tooltip>Fires 1 shot, causes 4 damage with low chance of fire and breaching.</tooltip>
+	<tooltip>Fires 1 shot that causes 4 damage with low chance of fire and breaching.</tooltip>
 	<damage>4</damage>
 	<stun>4</stun>
 	<shots>1</shots>
@@ -4685,7 +4685,7 @@
 	<title>Artillery Laser Mark II</title>
 	<short>Arti. II</short>
 	<desc>This advanced artillery laser charges slowly but deals a lot of damage and pierces through one shield bubble.</desc>
-	<tooltip>Fires 1 shot, causes 5 damage with a high chance of fire and breaching.</tooltip>
+	<tooltip>Fires 1 shot that causes 5 damage with a high chance of fire and breaching.</tooltip>
 	<damage>6</damage>
 	<stun>5</stun>
 	<shots>1</shots>
@@ -4724,7 +4724,7 @@
 	<title>Hull Crusher Laser</title>
 	<short>Hull Crusher</short>
 	<desc>This modified artillery laser fires 1 shot that deals 3 damage to rooms with a system or subsystem and double damage to rooms without either.</desc>
-	<tooltip>Fires 1 shot, dealing 3 damage and 2x damage in systemless rooms with good chance of fire and high chance of breaching.</tooltip>
+	<tooltip>Fires 1 shot, dealing 3 damage and 2x damage in systemless rooms with a good chance of fire and high chance of breaching.</tooltip>
 	<damage>3</damage>
 	<stun>5</stun>
 	<shots>1</shots>
@@ -4764,7 +4764,7 @@
 	<title>Hull Smasher Laser Mark I</title>
 	<short>Hull Laser I</short>
 	<desc>Fires 1 shot that deals 1 damage to rooms with a system or subsystem and double damage to rooms without either.</desc>
-	<tooltip>Fires 1 lasers, deals 1 damage and 2x damage in systemless rooms.</tooltip>
+	<tooltip>Fires 1 laser that deals 1 damage and 2x damage in systemless rooms.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -5575,7 +5575,7 @@
 	<short>A. Effector</short>
 	<locked>1</locked>
 	<flavorType>Ion Field Projector</flavorType>
-	<desc>Intelligent field projector that quickly analyses enemy weak-spots. It gains ion damage each time it fires  up to a maximum of 3.</desc>
+	<desc>Intelligent field projector that quickly analyses enemy weak-spots. It gains ion damage each time it fires up to a maximum of 3.</desc>
 	<tooltip>Does no damage but deals 1 ion damage to the system it is directed on. Ion damage increases the more it fires. Surpasses shields.</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -5954,7 +5954,7 @@
 	<title>Oni Missiles</title>
 	<short>Oni</short>
 	<desc>High-tech cloak-missile launcher that scrambles the targeting systems of enemy defense drones. Its missiles can only be shot down by the most advanced defense drones.</desc>
-	<tooltip>Fires 1 missile; does 2 damage; pierces all shields; evades lvl 1 defense drones.</tooltip>
+	<tooltip>Fires 1 missile; does 2 damage; pierces all shields; evades Defense I drones.</tooltip>
 	<damage>2</damage>
 	<stun>4</stun>
 	<missiles>1</missiles>
@@ -5993,7 +5993,7 @@
 	<title>Ifrit Missile</title>
 	<short>Ifrit</short>
 	<desc>Brilliantly designed high-tech missile launcher that fires four projectiles for the cost of one. Its cloaked missiles can only be shot down by the most advanced defense drones.</desc>
-	<tooltip>Fires 4 missiles; 1 damage each; pierces all shields; evades lvl 1 defense drones.</tooltip>
+	<tooltip>Fires 4 missiles; 1 damage each; pierces all shields; evades Defense I drones.</tooltip>
 	<damage>1</damage>
 	<stun>3</stun>
 	<missiles>1</missiles>
@@ -6034,7 +6034,7 @@
 	<title>Ogre Missile Battery</title>
 	<short>Ogre</short>
 	<desc>Basic battery that fires a small swarm of missiles that deals 2 damage to hull, but only half that damage to systems and crew.</desc>
-	<tooltip>Fires a small missile swarm that deals 2 damage to hull, but only half that damage to systems and crew.</tooltip>
+	<tooltip>Fires a small missile swarm that deals 2 damage to hull, but only 0.5x damage to systems and crew.</tooltip>
 	<drone_targetable>2</drone_targetable>
 	<damage>2</damage>
 	<stun>3</stun>
@@ -6078,7 +6078,7 @@
 	<title>Ogre Missile Battery</title>
 	<short>Ogre</short>
 	<desc>Basic battery that fires a small swarm of missiles that deals 2 damage to hull, but only half that damage to systems and crew.</desc>
-	<tooltip>Fires a small missile swarm that deals 2 damage to hull, but only half that damage to systems and crew.</tooltip>
+	<tooltip>Fires a small missile swarm that deals 2 damage to hull, but only 0.5x damage to systems and crew.</tooltip>
 	<drone_targetable>2</drone_targetable>
 	<damage>2</damage>
 	<stun>3</stun>
@@ -6208,7 +6208,7 @@
 	<title>Titan Missile Battery</title>
 	<short>Titan</short>
 	<desc>Huge artillery battery that releases a massive swarm of missiles. Deals 4 damage to hull, but only half that damage to systems and crew.</desc>
-	<tooltip>Fires a missile swarm that deals 4 damage to hull, but only half that damage to systems and crew; pierces all shields.</tooltip>
+	<tooltip>Fires a missile swarm that deals 4 damage to hull, but only 0.5x damage to systems and crew; pierces all shields.</tooltip>
 	<drone_targetable>2</drone_targetable>
 	<damage>4</damage>
 	<missiles>1</missiles>
@@ -6252,7 +6252,7 @@
 	<title>Titan Missile Battery</title>
 	<short>Titan</short>
 	<desc>Huge artillery battery that releases a massive swarm of missiles. Deals 4 damage to hull, but only half that damage to systems and crew.</desc>
-	<tooltip>Fires a missile swarm that deals 4 damage to hull, but only half that damage to systems and crew; pierces all shields.</tooltip>
+	<tooltip>Fires a missile swarm that deals 4 damage to hull, but only 0.5x damage to systems and crew; pierces all shields.</tooltip>
 	<drone_targetable>2</drone_targetable>
 	<damage>4</damage>
 	<missiles>1</missiles>
@@ -6487,7 +6487,7 @@
 	<short>Phase Ion I</short>
 	<tip>ce_tip_ion_pierce</tip>
 	<locked>1</locked>
-	<desc>This weapons ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
+	<desc>This weapon's ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
 	<tooltip>Fires one phase blast; pierces all shields; deals 1 ion damage to shields and deals 1 additional ion damage to any system it hits afterwards.</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -6534,7 +6534,7 @@
 	<short>Phase Ion II</short>
 	<tip>ce_tip_ion_pierce</tip>
 	<locked>1</locked>
-	<desc>This weapons ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
+	<desc>This weapon's ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
 	<tooltip>Fires one phase blast; pierces all shields; deals 1 ion damage to shields and deals 1 additional ion damage to any system it hits afterwards.</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -6580,7 +6580,7 @@
 	<title>Stun Cluster Bomb</title>
 	<short>Stun C.B.</short>
 	<locked>1</locked>
-	<desc>Deploys 3 self-teleporting explosive that stuns all crew inside the room for 15 seconds. Can target your own ship.</desc>
+	<desc>Deploys 3 self-teleporting explosives that stun all crew inside the room for 15 seconds. Can target your own ship.</desc>
 	<tooltip>Bomb weapon; requires a missile; teleports 3 stun bombs. Stuns all crew inside the room for 15 seconds. Can target your own ship.</tooltip>
 	<damage>0</damage>
 	<stun>15</stun>
@@ -6650,7 +6650,7 @@
 	<title>Stun Cluster Bomb</title>
 	<short>Stun C.B.</short>
 	<locked>1</locked>
-	<desc>Deploys 3 self-teleporting explosive that stuns all crew inside the room. Can target your own ship.</desc>
+	<desc>Deploys 3 self-teleporting explosives that stun all crew inside the room. Can target your own ship.</desc>
 	<tooltip>Bomb weapon; requires a missile; teleports 3 stun bombs. Stuns all crew inside the room. Can target your own ship.</tooltip>
 	<damage>0</damage>
 	<stun>15</stun>
@@ -6685,7 +6685,7 @@
 	<title>Light Chain Vulcan</title>
 	<short>Light Vulcan</short>
 	<tip>ce_tip_chain_laser_light</tip>
-	<desc>This light laser takes a long time to spin up. Each time it fires it decreases the cooldown, eventually allowing to shred enemy crew with constant laser fire.</desc>
+	<desc>This light laser takes a long time to spin up. Each time it fires it decreases the cooldown, eventually shredding enemy crew with constant laser fire.</desc>
 	<tooltip>Cooldown drops the more it fires. Ignores 2 shield bubbles but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<shots>1</shots>
@@ -6778,8 +6778,8 @@
 	<title>Scatter Laser Flak Gun</title>
 	<tip>tip_flak</tip>
 	<short>Scatter Flak</short>
-	<desc>Blasts scatter laser pallets across a wide area doing up to 5 damage. Excellent at taking down shields but hard to aim and can only damage ships hull.</desc>
-	<tooltip>Fires scatter laser projectiles across a random area doing up to 5 damage.</tooltip>
+	<desc>Blasts scatter laser pellets across a wide area doing up to 5 damage. Excellent at taking down shields but hard to aim and can only damage a ship's hull.</desc>
+	<tooltip>Fires scatter laser projectiles across a random area doing up to 5 hull damage.</tooltip>
 	<radius>80</radius>
 	<damage>1</damage>
 	<sysDamage>-1</sysDamage>
@@ -6880,7 +6880,7 @@
 	<tip>tip_flak</tip>
 	<short>Missile Flak</short>
 	<desc>Releases swarms of missiles across a very wide area doing up to 8 damage. Very hard to aim therefore ineffective against small ships.</desc>
-	<tooltip>Fires missiles swarms across a random area doing up to 8 damage. Pierces all shields; evades lvl 1 defense drones.</tooltip>
+	<tooltip>Fires missiles swarms across a random area doing up to 8 damage. Pierces all shields; evades Defense I drones.</tooltip>
 	<drone_targetable>1</drone_targetable>
 	<radius>120</radius>
 	<damage>1</damage>
@@ -6933,7 +6933,7 @@
 	<title>Plasma Thrower Mark I</title>
 	<tip>ce_tip_plasma</tip>
 	<short>Plasma I</short>
-	<desc>Fires a concentrated blast of plasma that deals no physical damage but has a good chance to igniting fires.</desc>
+	<desc>Fires a concentrated blast of plasma that deals no physical damage but has a good chance to ignite fires.</desc>
 	<tooltip>Fires plasma across a small, random area. High fire chance.</tooltip>
 	<radius>40</radius>
 	<damage>0</damage>
@@ -6977,7 +6977,7 @@
 	<title>Plasma Thrower Mark I</title>
 	<tip>ce_tip_plasma</tip>
 	<short>Plasma I</short>
-	<desc>Fires a concentrated blast of plasma that deals no physical damage but has a good chance to igniting fires.</desc>
+	<desc>Fires a concentrated blast of plasma that deals no physical damage but has a good chance to ignite fires.</desc>
 	<tooltip>Fires plasma across a small, random area. High fire chance.</tooltip>
 	<radius>40</radius>
 	<damage>0</damage>
@@ -7021,7 +7021,7 @@
 	<title>Plasma Thrower Mark II</title>
 	<tip>ce_tip_plasma</tip>
 	<short>Plasma II</short>
-	<desc>Fires multiple blasts of plasma across a random area with a chance to light fires at every room that is hit.</desc>
+	<desc>Fires multiple blasts of plasma across a random area with a chance to light fires in every room that is hit.</desc>
 	<tooltip>Fires plasma across a wide, random area. Very high fire chance.</tooltip>
 	<radius>65</radius>
 	<damage>0</damage>
@@ -7064,7 +7064,7 @@
 	<title>Plasma Thrower Mark II</title>
 	<tip>ce_tip_plasma</tip>
 	<short>Plasma II</short>
-	<desc>Fires multiple blasts of plasma across a random area with a chance to light fires at every room that is hit.</desc>
+	<desc>Fires multiple blasts of plasma across a random area with a chance to light fires in every room that is hit.</desc>
 	<tooltip>Fires plasma across a wide, random area. Very high fire chance.</tooltip>
 	<radius>65</radius>
 	<damage>0</damage>
@@ -7109,7 +7109,7 @@
 	<short>Neural Stun I</short>
 	<flavorType>Stungun</flavorType>
 	<desc>Experimental field generation device that pierces shields and can knock out multiple enemy crewmen.</desc>
-	<tooltip>High chance to stun crew crew across a wide area for 5 seconds. Pierces all shields.</tooltip>
+	<tooltip>High chance to stun crew across a wide area for 5 seconds. Pierces all shields.</tooltip>
 	<radius>105</radius>
 	<damage>0</damage>
 	<stun>5</stun>
@@ -7153,7 +7153,7 @@
 	<tip>ce_tip_stungun</tip>
 	<short>Neural Stun II</short>
 	<flavorType>Stungun</flavorType>
-	<desc>Advanced field generation device that pierces shields and can incapacitate entire ship crews.</desc>
+	<desc>Advanced field generation device that pierces shields and can incapacitate a ship's entire crew.</desc>
 	<tooltip>High chance to stun all crew across a huge area for 10 seconds. Pierces all shields.</tooltip>
 	<radius>175</radius>
 	<damage>0</damage>
@@ -7197,8 +7197,8 @@
 	<tip>ce_tip_beam_adaptive</tip>
 	<title>Adaptive Focus Beam Mark I</title>
 	<short>Adaptive I</short>
-	<desc>Newly developed weapon system that adjusts it's beam pattern to enemy shields and gains 0.25 damage each time it fires up to a maximum of 2.</desc>
-	<tooltip>Focused beam weapon; deals 1 damage to one room; gains 0.25 damage each time it fires up to a maximum of 2.</tooltip>
+	<desc>Newly developed weapon system that adjusts its beam pattern to enemy shields and gains 0.25 damage each time it fires up to a maximum of 2.</desc>
+	<tooltip>Focused beam weapon; deals 1 damage to one room; damage increases the more it fires.</tooltip>
 	<damage>1</damage>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
@@ -7230,7 +7230,7 @@
 	<title>Adaptive Focus Beam Mark II</title>
 	<short>Adaptive II</short>
 	<desc>Advanced weapon system that adjusts its beam pattern to enemy shields. Gains 0.5 damage each time it fires up to a maximum of 3.</desc>
-	<tooltip>Focused beam weapon; deals 1 damage to one room with a low breach chance; gains 0.5 damage each time it fires up to a maximum of 3.</tooltip>
+	<tooltip>Focused beam weapon; deals 1 damage to one room with a low breach chance; damage increases the more it fires.</tooltip>
 	<damage>1</damage>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
@@ -7326,7 +7326,7 @@
 	<title>Laser Charger</title>
 	<short>Charge L</short>
 	<tip>tip_charge</tip>
-	<desc>This laser weapon can charge three times, giving it an additional projectile.</desc>
+	<desc>This laser weapon can charge three times, giving it additional projectiles.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 3.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
@@ -8127,7 +8127,7 @@
 	<short>Basic Laser</short>
 	<tip>tip_laser</tip>
 	<desc>Very weak laser.</desc>
-	<tooltip>Only one shot, one damage per shot.</tooltip>
+	<tooltip>Fires only one shot; one damage per shot.</tooltip>
 	<damage>0</damage>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -11050,7 +11050,7 @@
 	<tip>tip_combat</tip>
 	<title>Anti-Ship Scatter Drone</title>
 	<short>Scatter</short>
-	<desc>Basic drone that continually ablates enemy ship's hull with scatter lasers.</desc>
+	<desc>Basic drone that continually ablates the enemy ship's hull with scatter lasers.</desc>
 	<power>2</power>
 	<cooldown>1000</cooldown> 
 	<dodge>2</dodge>
@@ -11067,7 +11067,7 @@
 	<tip>tip_combat</tip>
 	<title>Heavy Scatter Drone</title>
 	<short>Heavy Sc.</short>
-	<desc>Huge drone that slowly takes ship hulls apart with its heavy scatter lasers.</desc>
+	<desc>Huge drone that slowly takes ships' hulls apart with its heavy scatter lasers.</desc>
 	<power>2</power>
 	<cooldown>1000</cooldown> 
 	<dodge>0</dodge>
@@ -11306,7 +11306,7 @@
 	<tip>tip_combat</tip>
 	<title>Anti-Ship Focus Beam Drone</title>
 	<short>Focus Beam</short>
-	<desc>Powerful drone that pierces shield with its focus beam.</desc>
+	<desc>Powerful drone that pierces shields with its focus beam.</desc>
 	<power>3</power>
 	<cooldown>1000</cooldown>
 	<dodge>1</dodge>
@@ -11589,7 +11589,7 @@
 	<level>1</level>
 	<title>Light Defense Drone Mk II</title>
 	<short>L.Defense II</short>
-	<desc>Fast defense drone that reliably shoots down incoming missiles, mines, and asteroids with high-velocity light lasers. Reloads in 0.6 second.</desc>
+	<desc>Fast defense drone that reliably shoots down incoming missiles, mines, and asteroids with high-velocity light lasers. Reloads in 0.6 seconds.</desc>
 	<power>2</power>
 	<cooldown>600</cooldown> <!-- Shooting cooldown for shooting at asteroids/missiles, in ms -->
 	<dodge>1</dodge>
@@ -11607,7 +11607,7 @@
 	<level>1</level>
 	<title>Burst Scatter Defense Drone</title>
 	<short>Sc. Defense</short>
-	<desc>Quick firing drone that shoots down incoming missiles, mines, and asteroids with medium-velocity scatter salvos. Reloads in 0.3 second.</desc>
+	<desc>Quick firing drone that shoots down incoming missiles, mines, and asteroids with medium-velocity scatter salvos. Reloads in 0.3 seconds.</desc>
 	<power>2</power>
 	<cooldown>300</cooldown>
 	<dodge>1</dodge>
@@ -11854,7 +11854,7 @@
 	<type>SHIP_REPAIR</type>
 	<title>Advanced Hull Repair Drone</title>
 	<short>Hull Repair</short>
-	<desc>Repairs damage to your hull even faster. Part is consumed once it finishes.</desc>
+	<desc>Repairs damage to your hull even faster. Drone part is consumed once it finishes.</desc>
 	<power>3</power>
 	<cooldown>1000</cooldown> <!-- Doesn't effect repair drone -->
 	<dodge>5</dodge>
@@ -11991,7 +11991,7 @@
 	<title>Stealth Beam Drone Mark II</title>
 	<tip>ce_tip_combat_stealth</tip>
 	<short>Stealth II</short>
-	<desc>Cloaked combat drone that evades enemy anti-drones and repeatedly attacks with a larger beam weapon.</desc>
+	<desc>Cloaked combat drone that evades enemy anti-drones and repeatedly attacks with a large beam weapon.</desc>
 	<power>3</power>
 	<cooldown>1000</cooldown> 
 	<dodge>10</dodge>
@@ -12010,7 +12010,7 @@
 	<title>Crystal Burst Mark I</title>
 	<short>Crystal Burst I</short>
 	<desc>A special projectile weapon that fires two shield-piercing crystal shards. Vulnerable to Defense drones.</desc>
-	<tooltip>Fires 2 shots, 1 damage each. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
+	<tooltip>Fires 2 shots for 1 damage each. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
 	<sp>1</sp>
@@ -12048,7 +12048,7 @@
 	<tip>tip_combat</tip>
 	<title>Crystal Anti-Ship Drone</title>
 	<short>Crystal</short>
-	<desc>Modified projectile drone that continually attacks the enemy ship with shield piercing crystals.</desc>
+	<desc>Modified projectile drone that continually attacks the enemy ship with shield-piercing crystals.</desc>
 	<power>2</power>
 	<cooldown>1000</cooldown>
 	<dodge>0</dodge>
@@ -12067,7 +12067,7 @@
 	<title>Heavy Crystal Mark I</title>
 	<short>Heavy Crys. I</short>
 	<desc>A special projectile weapon that shoots a powerful, shield-piercing crystal. Vulnerable to Defense drones.</desc>
-	<tooltip>Fires 1 shot, 2 damage. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
+	<tooltip>Fires 1 shot for 2 damage. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
 	<damage>2</damage>
 	<shots>1</shots>
 	<sp>1</sp>
@@ -12123,7 +12123,7 @@
 	<tip>tip_crystal</tip>
 	<title>Light Crystal Mark I</title>
 	<short>Light C.I</short>
-	<desc>Modified projectile weapon that fires 3 shield piercing antipersonnel crystals. Can not damage ships structural integrity or deplete shields.</desc>
+	<desc>Modified projectile weapon that fires 3 shield piercing anti-personnel crystals. Can not damage ships' structural integrity or deplete shields.</desc>
 	<tooltip>Fires 3 shots that damage crew. Ignores 3 shield bubbles but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>1</persDamage>
 	<damage>0</damage>
@@ -12162,7 +12162,7 @@
 	<tip>tip_combat</tip>
 	<title>Light Crystal Anti-Crew Drone</title>
 	<short>Light Cr.</short>
-	<desc>Extremely fast drone that attacks enemy crew with shield piercing light crystals.</desc>
+	<desc>Extremely fast drone that attacks enemy crew with shield-piercing light crystals.</desc>
 	<power>1</power>
 	<cooldown>1000</cooldown>
 	<dodge>5</dodge>
@@ -12180,7 +12180,7 @@
 	<tip>tip_crystal</tip>
 	<title>Light Crystal Mark I</title>
 	<short>Light C.I</short>
-	<desc>Modified projectile weapon that fires 3 shield piercing antipersonnel crystals. Can not damage ships structural integrity or deplete shields.</desc>
+	<desc>Modified projectile weapon that fires 3 shield-piercing anti-personnel crystals. Can not damage ships' structural integrity or deplete shields.</desc>
 	<tooltip>Fires 3 shots that damage crew. Ignores 3 shield bubbles but cannot deplete shields. Low chance of breaching.</tooltip>
 	<persDamage>0</persDamage>
 	<damage>1</damage>
@@ -12778,7 +12778,7 @@
 
 <augBlueprint name="TE_GOODS_ROCK_LITERATURE">
 	<title>Religious Rock Scriptures</title>
-	<desc>A collection of stone tablets with religious speeches. The Rock Men are one of the few species that still keep physical records. Quite a heavy shipment. Common trade goods.</desc>
+	<desc>A collection of stone tablets with religious speeches. The Rockmen are one of the few species that still keep physical records. Quite a heavy shipment. Common trade goods.</desc>
 	<cost>40</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -12790,7 +12790,7 @@
 
 <augBlueprint name="TE_GOODS_ROCK_ORE">
 	<title>Raw Asteroid Ore</title>
-	<desc>Metals refined from asteroid ores are needed to manufacture all kinds ship components. Very basic trade goods.</desc>
+	<desc>Metals refined from asteroid ores are needed to manufacture all kinds of ship components. Very basic trade goods.</desc>
 	<cost>20</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -12802,7 +12802,7 @@
 
 <augBlueprint name="TE_GOODS_ROCK_HULLS">
 	<title>Ship Hull Panels</title>
-	<desc>The Rocks obsession with hull construction has led to an immense overproduction. Of course, to other species, they only sell third grade junk. Basic trade goods.</desc>
+	<desc>The Rockmen's obsession with hull construction has led to an immense overproduction. Of course, to other species, they only sell third grade junk. Basic trade goods.</desc>
 	<cost>30</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -12850,7 +12850,7 @@
 
 <augBlueprint name="TE_GOODS_SLUG_DRUGS">
 	<title>Slug Hallucinogens</title>
-	<desc>Illegal substances synthesized by the Slugs are popular among all species. You better keep the crew away from these. Valuable trade goods.</desc>
+	<desc>Illegal substances synthesized by the Slugs are popular among all species. You'd better keep the crew away from these. Valuable trade goods.</desc>
 	<cost>50</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -12898,7 +12898,7 @@
 
 <augBlueprint name="TE_GOODS_REBEL_CONTRABAND">
 	<title>Federation Contraband</title>
-	<desc>Crates with confiscated goods that are illegal under the new Rebels laws. Basic trade goods.</desc>
+	<desc>Crates with confiscated goods that are illegal under the new Rebels' laws. Basic trade goods.</desc>
 	<cost>30</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -12946,7 +12946,7 @@
 
 <augBlueprint name="TE_GOODS_HAZARD_ELEMENTS">
 	<title>Rare Elements</title>
-	<desc>Certain space phenomena produce hard to come forms of matter. Advanced containment fields preserve these elements for the use in industry and science. Valuable trade goods.</desc>
+	<desc>Certain space phenomena produce hard to come by forms of matter. Advanced containment fields preserve these elements for use in industry and science. Valuable trade goods.</desc>
 	<cost>50</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -12958,7 +12958,7 @@
 
 <augBlueprint name="TE_GOODS_AI_DATA">
 	<title>AI Research Data</title>
-	<desc>Academic studies of rouge AI behavior. Basic trade goods.</desc>
+	<desc>Academic studies of rogue AI behavior. Basic trade goods.</desc>
 	<cost>30</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -12970,7 +12970,7 @@
 
 <augBlueprint name="TE_GOODS_AI_NANOBOTS">
 	<title>Obedient Nanobots</title>
-	<desc>These re-programmable Nanites are the most flexible machine known in the galaxy. They can perform countless different tasks. Valuable trade goods.</desc>
+	<desc>These re-programmable Nanites are the most flexible machines known in the galaxy. They can perform countless different tasks. Valuable trade goods.</desc>
 	<cost>50</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -13087,7 +13087,7 @@
 
 <augBlueprint name="TE_GOODS_H2O">
 	<title>Huge Water Supply</title>
-	<desc>Water is essential for the survival of carbon based species, but useless for some other beings that roam the galaxy. Very basic trade goods.</desc>
+	<desc>Water is essential for the survival of carbon-based species, but useless for some other beings that roam the galaxy. Very basic trade goods.</desc>
 	<cost>20</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -13109,7 +13109,7 @@
 
 <augBlueprint name="TE_GOODS_CONDUITS">
 	<title>Power Conduits</title>
-	<desc>Easy-to-produce 1K watt hyper-cables; often used in newly founded colonies. Very basic trade goods.</desc>
+	<desc>Easy-to-produce 1kW hyper-cables; often used in newly founded colonies. Very basic trade goods.</desc>
 	<cost>20</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -13251,8 +13251,8 @@
 </augBlueprint>
 
 <augBlueprint name="TE_GOODS_AMBRA">
-	<title>Space Whale Ambra.</title>
-	<desc>A rare florescent substance, left behind by full grown space whales. Rumored to stimulate telepathic abilities. Common trade goods.</desc>
+	<title>Space Whale Ambra</title>
+	<desc>A rare fluorescent substance, left behind by fullly grown space whales. Rumored to stimulate telepathic abilities. Common trade goods.</desc>
 	<cost>40</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -13265,7 +13265,7 @@
 <!--	Not implemented yet: -->
 <augBlueprint name="TE_GOODS_MEAT">
 	<title>Sudo-Meat</title>
-	<desc>Sudo-Meat (TM) is a widespread staple on isolated station where the cultivation of real livestock is not an option. Basic trade goods.</desc>
+	<desc>Sudo-Meat (TM) is a widespread staple on isolated stations where the cultivation of real livestock is not an option. Basic trade goods.</desc>
 	<cost>30</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
@@ -13307,7 +13307,7 @@
 	<title>Halberd Beam</title>
 	<short>Halberd</short>
 	<desc>Slow but reliably powerful standard beam weapon.</desc>
-	<tooltip>Beam weapon, 2 damage per room with small breach chance.</tooltip>
+	<tooltip>Beam weapon, dealing 2 damage per room with small breach chance.</tooltip>
 	<damage>2</damage>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
@@ -13332,7 +13332,7 @@
 	<title>Halberd Beam</title>
 	<short>Halberd</short>
 	<desc>Slow but reliably powerful standard beam weapon.</desc>
-	<tooltip>Beam weapon, 2 damage per room with small breach chance.</tooltip>
+	<tooltip>Beam weapon, dealing 2 damage per room with small breach chance.</tooltip>
 	<damage>2</damage>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
@@ -13455,7 +13455,7 @@
 	<title>Anti-Bio Beam Mark II</title> 
 	<short>Bio Beam II</short>
 	<desc>This terrifying beam does no physical damage but rips through organic material, dealing heavy damage to crew members.</desc>
-	<tooltip>2 power beam weapon that greatly damages enemy crew.</tooltip>
+	<tooltip>Beam weapon that greatly damages enemy crew.</tooltip>
 	<damage>0</damage>
 	<persDamage>4</persDamage>
 	<sp>0</sp>
@@ -13486,7 +13486,7 @@
 	<title>Basic Laser Mark I</title>
 	<short>Basic Laser I</short>
 	<desc>Very weak laser.</desc>
-	<tooltip>Only one shot, one damage per shot.</tooltip>
+	<tooltip>Only one shot; one damage per shot.</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -13600,7 +13600,7 @@
 	<title>Burst Laser Mark II</title>
 	<short>Burst Laser II</short>
 	<desc>Slightly improved version of the burst laser that fires more shots per charge.</desc>
-	<tooltip>Fires 3 lasers, 1 damage each.</tooltip>
+	<tooltip>Fires 3 lasers with 1 damage each.</tooltip>
 	<damage>1</damage>
 	<shots>3</shots>
 	<sp>0</sp>
@@ -13638,7 +13638,7 @@
 	<title>Burst Laser Mark III</title>
 	<short>Burst Laser III</short>
 	<desc>Powerful burst laser that fires a notable volley of shots.</desc>
-	<tooltip>Fires 4 shots, 1 damage each.</tooltip>
+	<tooltip>Fires 4 shots with 1 damage each.</tooltip>
 	<damage>1</damage>
 	<shots>4</shots>
 	<sp>0</sp>
@@ -13676,7 +13676,7 @@
 	<title>Burst Laser Mark IV</title>
 	<short>Burst Laser IV</short>
 	<desc>Powerful burst laser that fires off an impressive barrage.</desc>
-	<tooltip>Fires 5 lasers, 1 damage per shot.</tooltip>
+	<tooltip>Fires 5 lasers with 1 damage per shot.</tooltip>
 	<damage>1</damage>
 	<shots>5</shots>
 	<sp>0</sp>
@@ -13753,7 +13753,7 @@
 	<title>Heavy Laser Mark II</title>
 	<short>Heavy Laser II</short>
 	<desc>This heavy laser fires two shots in quick succession, each dealing 2 damage.</desc>
-	<tooltip>Fires 2 heavy lasers, 2 damage each with low chance of fire and breaching.</tooltip>
+	<tooltip>Fires 2 heavy lasers for 2 damage each with low chance of fire and breaching.</tooltip>
 	<damage>2</damage>
 	<shots>2</shots>
 	<stunChance>2</stunChance>
@@ -14302,7 +14302,7 @@
 	<title>Hull Smasher Laser Mark II</title>
 	<short>Hull Laser II</short>
 	<desc>Fires 2 shots that deal 1 damage to rooms with a system or subsystem and double damage to rooms without either.</desc>
-	<tooltip>Fires 2 lasers, 1 damage each and 2x damage in systemless rooms.</tooltip>
+	<tooltip>Fires 2 lasers for 1 damage each and 2x damage in systemless rooms.</tooltip>
 	<damage>1</damage>
 	<shots>2</shots>
 	<sp>0</sp>
@@ -14341,7 +14341,7 @@
 	<title>Hull Smasher Laser Mark III</title>
 	<short>Hull Laser III</short>
 	<desc>Designed to maximize hull damage.</desc>
-	<tooltip>Fires 3 lasers, 1 damage each and 2x damage in systemless rooms.</tooltip>
+	<tooltip>Fires 3 lasers for 1 damage each and 2x damage in systemless rooms.</tooltip>
 	<damage>1</damage>
 	<shots>3</shots>
 	<sp>0</sp>
@@ -14534,7 +14534,7 @@
 	<title>Crystal Burst Mark I</title>
 	<short>Crystal Burst I</short>
 	<desc>A special projectile weapon that fires two shield-piercing crystal shards. Vulnerable to Defense drones.</desc>
-	<tooltip>Fires 2 shots, 1 damage each. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
+	<tooltip>Fires 2 shots for 1 damage each. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
 	<damage>1</damage>
 	<shots>2</shots>
 	<sp>1</sp>
@@ -14573,7 +14573,7 @@
 	<title>Crystal Burst Mark II</title>
 	<short>Crystal Burst II</short>
 	<desc>A powerful projectile weapon that fires three shield-piercing crystal shards. Vulnerable to Defense drones.</desc>
-	<tooltip>Fires 3 shots, 1 damage each. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
+	<tooltip>Fires 3 shots for 1 damage each. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
 	<damage>1</damage>
 	<shots>3</shots>
 	<sp>1</sp>
@@ -14612,7 +14612,7 @@
 	<title>Heavy Crystal Mark I</title>
 	<short>Heavy Crys. I</short>
 	<desc>A special projectile weapon that shoots a powerful, shield-piercing crystal. Vulnerable to Defense drones.</desc>
-	<tooltip>Fires 1 shot, 2 damage. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
+	<tooltip>Fires 1 shot for 2 damage. Low breach chance. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
 	<damage>2</damage>
 	<shots>1</shots>
 	<sp>1</sp>
@@ -14652,7 +14652,7 @@
 	<title>Heavy Crystal Mark II</title>
 	<short>Heavy Crys. II</short>
 	<desc>A powerful projectile weapon that fires a devastating, shield-piercing crystal that causes a hull breach. Vulnerable to Defense drones.</desc>
-	<tooltip>Fires 1 shot, 4 damage, causes a hull breach. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
+	<tooltip>Fires 1 shot for 4 damage and causes a hull breach. Pierces 1 shield. Vulnerable to Defense I.</tooltip>
 	<damage>4</damage>
 	<shots>1</shots>
 	<sp>1</sp>
